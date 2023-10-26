@@ -4,7 +4,7 @@
 
 
 Pomodoro Timer
-Este é um aplicativo de temporizador Pomodoro desenvolvido em React como parte da fomração do curso Ignite da RocketSeat.
+Este é um aplicativo de temporizador Pomodoro desenvolvido em React como parte da formação do curso Ignite da RocketSeat.
 
 O aplicativo permite que você use a técnica Pomodoro para gerenciar seu tempo de trabalho e descanso, permitindo que você inicie e interrompa o tempo conforme for necessário e salvando o histórico dentro do local storage do seu navegador.
 
